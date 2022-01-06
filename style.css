@@ -1,0 +1,11 @@
+*{
+    font-family: 'Poppins',sans-serif;
+}
+a{
+    font-family: 'Poppins',sans-serif;
+    text-decoration: none;  
+}
+img{
+    border: 10px ridge;
+    padding: 10px 10px 10px 10px;
+}
